@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12_JAVA_API.iml" filepath="$PROJECT_DIR$/12_JAVA_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Animal/Animal.iml" filepath="$PROJECT_DIR$/Seminar3/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Task/Task.iml" filepath="$PROJECT_DIR$/Seminar3/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Task0/Task0.iml" filepath="$PROJECT_DIR$/Seminar4/Task0/Task0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1_test/Task1/Task1.iml" filepath="$PROJECT_DIR$/Seminar1_test/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2_test/Task1/Task11.iml" filepath="$PROJECT_DIR$/Seminar2_test/Task1/Task11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Task1/Task12.iml" filepath="$PROJECT_DIR$/Seminar4/Task1/Task12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/Task1/Task13.iml" filepath="$PROJECT_DIR$/HW3/Task1/Task13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Task2/Task2.iml" filepath="$PROJECT_DIR$/Seminar3/Task2/Task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2_test/Task2/Task21.iml" filepath="$PROJECT_DIR$/Seminar2_test/Task2/Task21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/Task2/Task22.iml" filepath="$PROJECT_DIR$/HW3/Task2/Task22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/Task2/Task23.iml" filepath="$PROJECT_DIR$/HW4/Task2/Task23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Task3/Task3.iml" filepath="$PROJECT_DIR$/Seminar3/Task3/Task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1_test/Task3/Task31.iml" filepath="$PROJECT_DIR$/Seminar1_test/Task3/Task31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/Task3/Task32.iml" filepath="$PROJECT_DIR$/HW3/Task3/Task32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2_test/Task3/Task33.iml" filepath="$PROJECT_DIR$/Seminar2_test/Task3/Task33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/Task3/Task34.iml" filepath="$PROJECT_DIR$/HW4/Task3/Task34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Task4/Task4.iml" filepath="$PROJECT_DIR$/Seminar3/Task4/Task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1_test/Task4/Task41.iml" filepath="$PROJECT_DIR$/Seminar1_test/Task4/Task41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2_test/Task4/Task42.iml" filepath="$PROJECT_DIR$/Seminar2_test/Task4/Task42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1_test/Task5/Task5.iml" filepath="$PROJECT_DIR$/Seminar1_test/Task5/Task5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/Tasr1/Tasr1.iml" filepath="$PROJECT_DIR$/HW4/Tasr1/Tasr1.iml" />
+    </modules>
+  </component>
+</project>

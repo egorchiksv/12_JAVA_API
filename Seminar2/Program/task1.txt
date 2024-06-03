@@ -1,0 +1,24 @@
+.git
+01_Блок схемы и псевдокод
+02_GIT
+03_CSharp
+04_Bootcamp
+05_БД
+06_Linux
+07_Python_program
+07_Python_test
+08_Web_tech_prog and test
+09_Web_layout
+10_Exceptions_test
+11_Flexible methodologies
+123
+12_JAVA_API
+Final-control
+Final-control.rar
+main.py
+README.md
+RM.txt
+Знакомство со специализациями.zip
+Колесо компетенций.pdf
+Матрица Декарта.pdf
+Топ_5_для_разработчиков.pdf
